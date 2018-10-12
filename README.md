@@ -4,7 +4,7 @@
 
 1. Convert song to a .wav file using [sox](http://sox.sourceforge.net/)
 
-2. Compute mfcc values for that song using the script `compute-mfcc` found [here]("https://github.com/dspavankumar/compute-mfcc"), using the following format:
+2. Compute mfcc values for that song using the script `compute-mfcc` found [here](https://github.com/dspavankumar/compute-mfcc), using the following format:
 
 > compute-mfcc --input <song> --output <output.csv> --samplingrate 44100
 
