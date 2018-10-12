@@ -6,7 +6,7 @@
 
 2. Compute mfcc values for that song using the script `compute-mfcc` found [here](https://github.com/dspavankumar/compute-mfcc), using the following format:
 
-> compute-mfcc --input <song> --output <output.csv> --samplingrate 44100
+> compute-mfcc --input <song.wav> --output <output.csv> --samplingrate 44100
 
 See the script's README for compilation instructions.
 
