@@ -1,3 +1,4 @@
+Non-Carti Songs
 + G.O.M.D.
 + Pinocchio Story (Freestyle Live from Singapore)
 + Closer (feat. Halsey)
@@ -364,3 +365,30 @@
 + I Need Love
 + Black and Yellow
 + Lord Knows (feat. Rick Ross)
+Playboi Carti Songs
++ Playboi Carti - Magnolia
++ Playboi Carti - R.I.P.
++ Playboi Carti - Broke Boi
++ Playboi Carti - Yah Mean
++ Playboi Carti - New Choppa
++ Playboi Carti - Cancun
++ Playboi Carti - Half & Half!
++ Playboi Carti - Old Money (feat. Pierre Bourne)
++ Playboi Carti - Poke It Out (feat. Nicki Minaj)
++ Playboi Carti - Home
++ Playboi Carti - Foreign
++ Playboi Carti - R.I.P Fredo (Notice Me)
++ Playboi Carti - Location
++ Playboi Carti - Let It Go
++ Playboi Carti - NO.9
++ Playboi Carti - Flex (feat. Leven Kali)
++ Playboi Carti - Kelly K
++ Playboi Carti - Lookin (feat. Lil Uzi Vert)
++ Playboi Carti - Cashin
++ Playboi Carti - Dog Food/Money Counter 2
++ Playboi Carti - Beef (feat. Ethereal)
++ Playboi Carti - Fell In Luv
++ Playboi Carti - What We Doin
++ Playboi Carti - Lame Niggaz
++ Playboi Carti - Had 2
++ Playboi Carti - Other Shit

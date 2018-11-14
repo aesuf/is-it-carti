@@ -1,9 +1,5 @@
-+ Playboi Carti - Magnolia
 + Playboi Carti - wokeuplikethis (feat. Lil Uzi Vert)
-+ Playboi Carti - R.I.P.
-+ Playboi Carti - Broke Boi
-+ Playboi Carti - Yah Mean
-+ Playboi Carti - New Choppa
-+ Playboi Carti - Cancun
 + Playboi Carti - dothatshit!
-+ Playboi Carti - Half & Half!
++ Playboi Carti - Long Time (Intro)
++ Playboi Carti - Love Hurts (feat. Travis Scott)
++ Playboi Carti - Choppa Won't Miss (feat. Young Thug)
