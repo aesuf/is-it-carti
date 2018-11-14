@@ -7,7 +7,7 @@ root = "Carti_Songs_WAV"
 thread1,thread2,thread3,thread4 = [],[],[],[]
 
 for subdir, dirs, files in os.walk(root):
-	for x in range(1,len(files),2):
+	for x in range(1,len(files),4):
 		try:
 			thread1.append(subdir+"/"+files[x])
 			thread2.append(subdir+"/"+files[x+1])
