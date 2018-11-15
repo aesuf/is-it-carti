@@ -394,8 +394,10 @@
 + Had 2
 + Other Shit
 # Songs to be Added
-+ Playboi Carti - wokeuplikethis (feat. Lil Uzi Verti)
-+ Playboi Carti - dothatshit!
-+ Playboi Carti - Long Time (Intro)
-+ Playboi Carti - Love Hurts (feat. Travis Scott)
-+ Playboi Carti - Choppa Won't Miss (feat. Young Thug)
+## Non-Carti Songs
+## Playboi Carti Songs
++ wokeuplikethis (feat. Lil Uzi Verti)
++ dothatshit!
++ Long Time (Intro)
++ Love Hurts (feat. Travis Scott)
++ Choppa Won't Miss (feat. Young Thug)
