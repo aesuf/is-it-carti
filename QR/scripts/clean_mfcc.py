@@ -6,11 +6,12 @@ from pathlib import Path
 
 in_file  = None
 out_file = None
-argv = sys.argv[1:]
-out_df = []
+argv     = sys.argv[1:]
+out_df   = []
+carti    = None
 
 try:
-	opts,args = getopt.getopt(argv,"i:o:",["input=","output="])
+	opts,args = getopt.getopt(argv,"i:o:c:",["input=","output=","carti="])
 except getopt.GetoptError as err:
 	print(err)
 	opts = []
@@ -20,6 +21,8 @@ for opt,arg in opts:
 		in_file = arg
 	elif opt in ['-o','--output']:
 		out_file = Path(arg)
+	elif opt in ['-c','--carti']:
+		carti = arg
 
 try:
 	in_df = pd.read_csv(in_file,header=None)
@@ -40,6 +43,7 @@ columns = ['mffc_a_std','mffc_a_mean','mffc_b_std','mffc_b_mean',
 					 'mffc_m_std','mffc_m_mean']
 
 out_df.columns = columns
+out_df['carti'] = carti
 
 if out_file.is_file():
 	print('File already exists, appending data...')
