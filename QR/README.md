@@ -27,4 +27,4 @@ model.fit(X_train,y_train)
 |Actual: NO |81           |12            |
 |Actual: YES|0            |4             |
 
-Saved as `$ROOT/QR/models/perceptron.joblib`
+Saved as `$ROOT/QR/models/perceptron_1.joblib`
