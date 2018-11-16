@@ -2,6 +2,7 @@
 ### Log
 ###### Friday, November 16th, 2018
 Trained a perceptron model to predict whether or not a song was created by Playboi Carti. Found out that a perceptron model was ~~a failure~~ highly unsuccessful. Might have to change parameters to get more success. Will try to include more `carti=True` songs in the training set.
+
 UPDATE:
 Changing to `test_size=0.25` was more accurate than `test_size=0.3`
 ### Models
