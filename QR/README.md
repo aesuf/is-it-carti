@@ -23,7 +23,7 @@ model=Perceptron()
 test_train_split(X,y,test_size=0.25,random_state=4)
 model.fit(X_train,y_train)
 ```
-|n=116      |Predicted: NO|Predicted: YES|
+|n=97       |Predicted: NO|Predicted: YES|
 |-----------|:-----------:|:------------:|
 |Actual: NO |81           |12            |
 |Actual: YES|0            |4             |
