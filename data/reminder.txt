@@ -1,0 +1,5 @@
+Use regex on words to remove apostraphes at end (and beginning NOT THE BEGINNING)
+regex on entire sentence to swap commas with space
+
+$line =~ /[\.|\!|\?|\,|\(|\)|\"]//g #ignore these characters
+$line =~ m/^\[.*\]$/ #ignore these lines
